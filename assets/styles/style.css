@@ -10,6 +10,13 @@
 .image img{
     width: 40%;
     margin-top: 25px;
-    margin
+    margin-left: 10px;
 
+}
+#copy{
+    
+    margin: 50px;
+}
+.switch{
+    font-size: 12px;
 }
